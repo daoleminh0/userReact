@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Phạm Nguyễn Hoàng Sơn",
+    "tel": "0942570872",
+    "permission": 1
+  },
+  {
+    "id": 2,
+    "name": "Nguyễn Hoàng Kim",
+    "tel": "091111111",
+    "permission": 2
+  },
+  {
+    "id": 3,
+    "name": "Nguyễn Tấn Đạt",
+    "tel": "0922222222",
+    "permission": 2
+  },
+  {
+    "id": 4,
+    "name": "Nguyễn Quốc Anh",
+    "tel": "0933333333",
+    "permission": 3
+  },
+  {
+    "id": 5,
+    "name": "Nguyễn Tấn Đạt",
+    "tel": "0922222222",
+    "permission": 2
+  },
+  {
+    "id": 6,
+    "name": "Nguyễn Tấn Đạt",
+    "tel": "0922222222",
+    "permission": 2
+  },
+  {
+    "id": 7,
+    "name": "Nguyễn Tấn Đạt",
+    "tel": "0922222222",
+    "permission": 2
+  }
+]
